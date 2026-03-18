@@ -1,0 +1,16 @@
+# Compiled binaries
+syntax_checker
+syntax_checker.exe
+*.o
+*.out
+
+# Output file (generated on run)
+output.txt
+
+# VS Code / IDE
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
